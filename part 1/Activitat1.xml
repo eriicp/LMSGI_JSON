@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+  <Producte categoria="mobles">
+    <CodiP>1</CodiP>
+    <Nom>Taula</Nom>
+    <Descripcio>Una taula</Descripcio>
+   <Preu>100€</Preu>
+    <Disponibilitat>En estoc</Disponibilitat>
+    <image>
+     <url>https://www.muebleslluesma.com/340563-large_default/mesa-goltay-doos.jpg</url>
+   </image>
+  </Producte>
+  <Producte categoria="mobles">
+    <CodiP>2</CodiP>
+    <Nom>Cadira</Nom>
+    <Descripcio>Cadira per seure</Descripcio>
+    <Preu>50€</Preu>
+    <Disponibilitat>En estoc</Disponibilitat>
+    <image>
+      <url>https://www.regalosmiguel.com/80146-home_default/silla-synk-basic.jpg</url>
+    </image>
+  </Producte>
+</botiga>
