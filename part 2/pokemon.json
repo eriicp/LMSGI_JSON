@@ -1,0 +1,67 @@
+{
+    "pokemons": [
+        {
+            "id": 1,
+            "nom": "Pikachu",
+            "tipus": ["Elèctric"],
+            "pes": "6 kg",
+            "altura": "0.4 metres",
+            "estadistiques": {
+                "velocitat": 90,
+                "fortalesa": 55,
+                "precisio": 80,
+                "resistencia": 50
+            },
+            "moviments": [
+                {
+                    "nom": "Impactrueno",
+                    "descripcio": "Un atac elèctric bàsic que pot paralitzar l'oponent.",
+                    "potencia": 40,
+                    "contacte": false
+                },
+                {
+                    "nom": "Atac Ràpid",
+                    "descripcio": "Un atac ràpid que sempre colpeja primer.",
+                    "potencia": 40,
+                    "contacte": true
+                }
+            ],
+            "imatge": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+            "evolucions": [
+                {
+                    "id": 2,
+                    "nivell_necessari": 16
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nom": "Raichu",
+            "tipus": ["Elèctric"],
+            "pes": "30 kg",
+            "altura": "0.8 metres",
+            "estadistiques": {
+                "velocitat": 110,
+                "fortalesa": 85,
+                "precisio": 85,
+                "resistencia": 60
+            },
+            "moviments": [
+                {
+                    "nom": "Rayo",
+                    "descripcio": "Un potent atac elèctric que pot paralitzar l'oponent.",
+                    "potencia": 90,
+                    "contacte": false
+                },
+                {
+                    "nom": "Placatge",
+                    "descripcio": "Un atac físic que fa retrocedir l'oponent.",
+                    "potencia": 50,
+                    "contacte": true
+                }
+            ],
+            "imatge": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
+            "evolucions": []
+        }
+    ]
+}
